@@ -8,7 +8,7 @@ How to Downgrade any 64Bit Device from 10.3.x to 11.1.2 with Blobs
 DOING THIS IS AT YOUR OWN RISK! I'M NOT RESPONSIBLE FOR ANYTHING.
 
 ```Requirements:```
-- a Mac (or virtual Machine) on macOS 10.12.6 
+- a Mac (or virtual Machine) on macOS 10.12.6 or newer
 - any 64 Bit device on 10.3.x
 - SHSH Blobs for iOS 11.1.2 
 - Xcode 9 or later 
