@@ -84,7 +84,7 @@ If your device isn´t supported, you CAN upgrade BUT you need to find Offsets an
 2. Rename your blob to ```blob.shsh2``` NOT ```blob.shsh2.plist``` or NOT ```blob.plist.shsh2```
 3. Click ```use .shsh2```
 
-Now you are all set for your Downgrade! Now you should have this in the ```Upgrade``` folder on Desktop:
+Now you are all set for your Upgrade! Now you should have this in the ```Upgrade``` folder on Desktop:
 - blob.shsh2
 - futurerestore_macos
 - iOS 11.1.2 IPSW
