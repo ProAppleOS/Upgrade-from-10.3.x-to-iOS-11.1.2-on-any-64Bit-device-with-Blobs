@@ -3,7 +3,7 @@
 - ANY QUESTION? -> @iloveapple1999 on Twitter 
 
 # Upgrade from 10.3.x to iOS 11.1.2 on any 64Bit device
-How to Downgrade any 64Bit Device from 10.3.x to 11.1.2 with Blobs
+How to Upgrade any 64Bit Device from 10.3.x to 11.1.2 with Blobs
 
 DOING THIS IS AT YOUR OWN RISK! I'M NOT RESPONSIBLE FOR ANYTHING.
 
