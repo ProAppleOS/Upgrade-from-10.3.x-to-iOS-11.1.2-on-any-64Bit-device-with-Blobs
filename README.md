@@ -119,4 +119,4 @@ Now you are all set for your Upgrade! Now you should have this in the ```Upgrade
 - THANKS TO @arx8x for v0rtexNonce
 - THANKS TO @firstencounter for the futurerestore fork that works with iOS 11
                                              
-                                       MADE BY @iloveapple1999 on Twitter 
+                                       MADE BY @ProAppleOS on Twitter 
