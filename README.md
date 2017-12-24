@@ -1,6 +1,6 @@
-- Copyright by iloveapple1999 © ;
-- MADE BY @iloveapple1999 on Twitter; 
-- ANY QUESTION? -> @iloveapple1999 on Twitter 
+- Copyright by ProAppleOS © ;
+- MADE BY @ProAppleOS on Twitter; 
+- ANY QUESTION? -> @ProAppleOS on Twitter 
 
 # Upgrade from 10.3.x to iOS 11.1.2 on any 64Bit device
 How to Upgrade any 64Bit Device from 10.3.x to 11.1.2 with Blobs
