@@ -113,6 +113,7 @@ Now you are all set for your Upgrade! Now you should have this in the ```Upgrade
 
 
                                          DONE! ENJOY YOUR JAILBREAK :D
+- Feel free to Donate :) https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AXEXQHKE2GHNC
                                              
 - THANKS TO @tihmstar for futurerestore
 - THANKS TO @siguza for v0rtex Exploit
