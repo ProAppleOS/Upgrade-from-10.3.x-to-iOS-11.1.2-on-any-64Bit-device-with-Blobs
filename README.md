@@ -94,7 +94,7 @@ Now you are all set for your Upgrade! Now you should have this in the ```Upgrade
                               
                               
 1. Open Terminal
-3. write ```cd (drag your Downgrade folder into Terminal)``` and enter
+3. write ```cd (drag your Uphrade folder into Terminal)``` and enter
 3. type ```ls``` and enter
 4. now you should see all the files in your ```Upgrade``` folder
 5. drag ```futurerstore_macos``` file into terminal and click enter (you should see lots of commands)
