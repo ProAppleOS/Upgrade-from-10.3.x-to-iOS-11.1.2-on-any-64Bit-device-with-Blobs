@@ -99,7 +99,7 @@ Now you are all set for your Upgrade! Now you should have this in the ```Upgrade
 4. now you should see all the files in your ```Upgrade``` folder
 5. drag ```futurerstore_macos``` file into terminal and click enter (you should see lots of commands)
 6. write this
-- ```./futurerestore_macos -t (drag blob) --latest-sep --latest-baseband (drag iphone11.1.2.ipsw)``` 
+- ```./futurerestore_macos -t (drag blob) --latest-sep --latest-baseband -w (drag iphone11.1.2.ipsw)``` 
 - Good example here: https://imgur.com/a/02EnO
 7. Plug your Device in
 8. Unlock your Device
