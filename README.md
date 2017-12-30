@@ -83,6 +83,7 @@ If your device isn´t supported, you CAN upgrade BUT you need to find Offsets an
 1. Close the your SHSH Blob file (don´t change anything inside the blob file)
 2. Rename your blob to ```blob.shsh2``` NOT ```blob.shsh2.plist``` or NOT ```blob.plist.shsh2```
 3. Click ```use .shsh2```
+4. Now the icon should change
 
 Now you are all set for your Upgrade! Now you should have this in the ```Upgrade``` folder on Desktop:
 - blob.shsh2
