@@ -22,7 +22,8 @@ DOING THIS IS AT YOUR OWN RISK! I'M NOT RESPONSIBLE FOR ANYTHING.
 - iPhone 6                      iOS 10.3.1 - 10.3.3
 - iPhone 6s                     iOS 10.3.2 - 10.3.3
 - iPhone 7                      iOS 10.3.1 - 10.3.3
-- iPhone 7 Plus                 iOS 10.3.1 - 10.3.3
+- iPhone 7 Plus                 iOS 10.3.1 - 10.3.3
+- and some other devices just test it out if it works 
 
 If your device isn´t supported, you CAN upgrade BUT you need to find Offsets and need to put it in the v0rtexNonce Xcode Project in the offsets.m file and compile it! 
 - How to find Offsets for v0rtexNonce (https://goo.gl/qq6hFG) 
